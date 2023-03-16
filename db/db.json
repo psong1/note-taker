@@ -1,6 +1,9 @@
-[
+{
+  "notesArray": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "Test Title": "Finish course",
+      "Test Date": "06/12/23",
+      "id": "1"
     }
-]
+  ]
+}
