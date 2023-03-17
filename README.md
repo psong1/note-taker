@@ -27,6 +27,12 @@ Users can also use Insomnia to test the application by:
 * In Insomnia, GET "/api/notes" and SEND
 * Then, switch to POST, type a test note in the JSON body, and SEND
 
+## Screenshot
 
+![img](./Assets/Screenshot%202023-03-16%20231903.png)
 
+## Contact
 
+* Github: [psong1](https://github.com/psong1) 
+
+* Email me: paulsong29@gmail.com
